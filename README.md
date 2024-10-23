@@ -1,6 +1,6 @@
 # Simulador de Sistemas Cuánticos
 
-Este proyecto simula sistemas cuánticos simples siguiendo los ejercicios del capítulo 4 del libro (añadir nombre del libro o fuente).
+Este proyecto simula sistemas cuánticos simples siguiendo los ejercicios del capítulo 4 del libro.
 
 ## Contenido
 
@@ -21,7 +21,7 @@ Este proyecto simula sistemas cuánticos simples siguiendo los ejercicios del ca
 
 ## Instalación
 
-Para instalar las dependencias, utiliza:
+Para instalar las dependencias, utilizar:
 
 ```bash
 pip install numpy
